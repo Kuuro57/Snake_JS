@@ -45,7 +45,7 @@ let supprimer_cercle = (x, y) => {
 
 
 // ##################################################
-//              FONCTION SUPPRIMER_CERCLE
+//              FONCTION AJOUTER_CERCLE
 // ##################################################
 
 let ajouter_cercle = (x, y) => {
